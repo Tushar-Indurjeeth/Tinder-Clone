@@ -33,4 +33,4 @@ Tinder Clone built using the [MERN Stack](https://www.mongodb.com/mern-stack).
 - Front-end hosted through [Firebase](https://firebase.google.com/).
 
 ## License
-Code released under the MIT License.
+Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/Tinder-Clone/blob/master/LICENSE).
