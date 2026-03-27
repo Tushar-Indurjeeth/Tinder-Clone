@@ -1,9 +1,6 @@
 # Tinder-Clone
 Tinder UI Clone built using the [MERN Stack](https://www.mongodb.com/mern-stack).
 
-## Live Demo
-[https://tinder-clone-cd5a5.web.app/](https://tinder-clone-cd5a5.web.app/)
-
 ## How it works
 - The data(image urls and names) is stored on [MongoDB](https://www.mongodb.com/)
 - When you open the web app, the images and names from the database is pulled through and displayed on the Tinder card 
